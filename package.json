@@ -1,0 +1,16 @@
+{
+  "name": "bg-removal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@imgly/background-removal-node": "^1.4.5"
+  }
+}
